@@ -1,0 +1,11 @@
+name: AutoMessage
+author: shawshark
+main: me.shawshark.automessage.AutoMessager
+version: '2.0.0'
+api-version: '1.21'
+folia-supported: true
+
+commands:
+  automessage:
+    description: Reloads the AutoMessage config.yml
+    permission: automessage.reload
